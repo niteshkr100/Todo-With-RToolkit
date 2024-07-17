@@ -7,7 +7,12 @@ for running the app----->
 
 npm run dev
 
-
+## Tech stack used-
+React.js
+css
+html
+js
+Reduxtoolkit
 
 # React + Vite
 
